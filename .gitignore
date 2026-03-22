@@ -20,3 +20,5 @@ processed_90.zip
 test.zip
 gait_simple_cnn_model_123_subjects.pth
 gait_model_full.pt
+yolov8n.pt
+yolov8n-seg.pt
