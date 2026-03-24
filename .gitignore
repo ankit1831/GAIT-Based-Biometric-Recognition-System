@@ -4,7 +4,8 @@
 
 /New Dataset
 /data
-
+/plots
+/__pycache__
 /gei_cache
 output_silhouettes
 temp_frames
